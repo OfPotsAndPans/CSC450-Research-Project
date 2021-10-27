@@ -3,3 +3,4 @@ Research conducted by Abdulsalam Bdeir &amp; William Rood at Eastern Connecticut
 we will compare the effectiveness of two popular signature-based detection systems, Snort and Suricata, against various types of SQLi attacks. 
 The overall accuracy of each security system will be based on the amount of accurate SQLi attacks prevented, 
 the amount of false negatives detected and the amount of false positives detected.
+Chickens
